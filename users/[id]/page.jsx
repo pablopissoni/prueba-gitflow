@@ -21,6 +21,8 @@ async function UsersPage({ params }) {
                         </h3>
                         <p>{user.email}</p>
                     </div>
+                    <div>HOLA PABLO
+                    </div>
                 </div>
             </div>
         </div>
